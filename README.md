@@ -22,6 +22,7 @@
     <a href="https://twitter.com/vantheravibes"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" /></a>
     <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://github.com/vantheravibes"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://ko-fi.com/vantheravibes"><img src="https://img.shields.io/badge/Ko--Fi-000000?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-Fi" /></a>
   </p>
 
 </div>
@@ -66,13 +67,15 @@ Current_Focus: Building high-performance Python applications and developer tools
 
 ---
 
-### 🌟 Featured Projects
+### ☕ Support My Work
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| [🐍 Python Project One](https://github.com/vantheravibes) | Automated workflow and data processing engine. | `Python` `CLI` |
-| [⚡ Python Project Two](https://github.com/vantheravibes) | High-performance backend service and script runner. | `Python` `Docker` |
-| [🛠️ Utility Tool](https://github.com/vantheravibes) | Developer productivity and system automation tool. | `Python` `Bash` `Git` |
+<div align="center">
+
+  <a href="https://ko-fi.com/vantheravibes" target="_blank">
+    <img src="https://img.shields.io/badge/Ko--Fi-Buy%20Me%20A%20Coffee-000000?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-Fi Support" />
+  </a>
+
+</div>
 
 ---
 
