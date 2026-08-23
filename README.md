@@ -2,7 +2,7 @@
 
   <!-- Dynamic Typing Header Banner -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=680&lines=Hi%2C+I+am+Sudipta+Sunder+aka+Vanthera+Vibes;Python+Developer;Building+Efficient+%26+Scalable+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Sudipta+Sunder;aka+Vanthera+Vibes;Python+Developer;Building+Efficient+%26+Scalable+Code" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -31,13 +31,13 @@
 ### ⚡ About Me
 
 ```yaml
-name: Sudipta Sunder
-alias: Vanthera Vibes
-role: Python Developer
-location: India 🇮🇳
-passions: [Python Architecture, Scripting, Automation, Backend & Systems]
-motto: "Simple is better than complex. — The Zen of Python"
-current_focus: Building high-performance Python applications and developer tools
+Alias: Vanthera Vibes
+Real_Name: Sudipta Sunder
+Role: Python Developer
+Location: India
+Passions: [Python Architecture, Scripting, Automation, Backend & Systems]
+Motto: "Simple is better than complex. — The Zen of Python"
+Current_Focus: Building high-performance Python applications and developer tools
 ```
 
 - 🐍 **Specialization:** Python development, scripting, automation, and backend logic.
