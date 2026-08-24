@@ -80,5 +80,5 @@ Current_Focus: Building high-performance Python applications and developer tools
 ---
 
 <div align="center">
-  <sub>Crafted with 🖤 by <strong>Sudipta Sunder (@vantheravibes)</strong></sub>
+  <sub>Crafted with 🖤 by <strong> (@vantheravibes)</strong></sub>
 </div>
