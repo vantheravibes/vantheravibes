@@ -36,7 +36,7 @@ Alias: Vanthera Vibes
 Real_Name: Sudipta Sunder
 Role: Python Developer
 Location: India
-Passions: [Python Architecture, Scripting, Automation, Backend & Systems]
+Passions: Python Architecture, Scripting, Automation, Database Management
 Motto: "Simple is better than complex. — The Zen of Python"
 Current_Focus: Building high-performance Python applications and developer tools
 ```
@@ -55,7 +55,7 @@ Current_Focus: Building high-performance Python applications and developer tools
 
   #### 🌐 Languages & Core
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,bash,c,cpp,linux" alt="Languages & Core" />
+    <img src="https://skillicons.dev/icons?i=python,js,html,css,bash,linux" alt="Languages & Core" />
   </a>
 
   #### 🧰 Tools & DevOps
@@ -80,5 +80,5 @@ Current_Focus: Building high-performance Python applications and developer tools
 ---
 
 <div align="center">
-  <sub>Crafted with 🖤 by <strong>(@vantheravibes)</strong></sub>
+  <sub>Crafted with 🖤 by <strong>Sudipta Sunder (@vantheravibes)</strong></sub>
 </div>
